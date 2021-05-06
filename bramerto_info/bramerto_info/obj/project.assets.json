@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stepa\\source\\repos\\bramerto_info\\bramerto_info\\bramerto_info.csproj",
+      "projectUniqueName": "C:\\Users\\stepa\\source\\repos\\bramerto-info\\bramerto_info\\bramerto_info\\bramerto_info.csproj",
       "projectName": "bramerto_info",
-      "projectPath": "C:\\Users\\stepa\\source\\repos\\bramerto_info\\bramerto_info\\bramerto_info.csproj",
+      "projectPath": "C:\\Users\\stepa\\source\\repos\\bramerto-info\\bramerto_info\\bramerto_info\\bramerto_info.csproj",
       "packagesPath": "C:\\Users\\stepa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stepa\\source\\repos\\bramerto_info\\bramerto_info\\obj\\",
+      "outputPath": "C:\\Users\\stepa\\source\\repos\\bramerto-info\\bramerto_info\\bramerto_info\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

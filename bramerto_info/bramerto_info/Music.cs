@@ -25,6 +25,7 @@ namespace bramerto_info
 
         private void Label1_Click(object sender, EventArgs e)
         {
+            simpleSound.Stop();
             this.Close();
         }
 
