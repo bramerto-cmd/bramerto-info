@@ -32,7 +32,6 @@ C:\Users\stepa\source\repos\bramerto-info\bramerto_info\bramerto_info\bin\Debug\
 C:\Users\stepa\source\repos\bramerto-info\bramerto_info\bramerto_info\bin\Debug\net5.0-windows\bramerto_info.dll
 C:\Users\stepa\source\repos\bramerto-info\bramerto_info\bramerto_info\bin\Debug\net5.0-windows\ref\bramerto_info.dll
 C:\Users\stepa\source\repos\bramerto-info\bramerto_info\bramerto_info\bin\Debug\net5.0-windows\bramerto_info.pdb
-C:\Users\stepa\source\repos\bramerto-info\bramerto_info\bramerto_info\obj\Debug\net5.0-windows\bramerto_info.csprojAssemblyReference.cache
 C:\Users\stepa\source\repos\bramerto-info\bramerto_info\bramerto_info\obj\Debug\net5.0-windows\bramerto_info.AboutProgramm.resources
 C:\Users\stepa\source\repos\bramerto-info\bramerto_info\bramerto_info\obj\Debug\net5.0-windows\bramerto_info.Biography.resources
 C:\Users\stepa\source\repos\bramerto-info\bramerto_info\bramerto_info\obj\Debug\net5.0-windows\bramerto_info.Contact.resources

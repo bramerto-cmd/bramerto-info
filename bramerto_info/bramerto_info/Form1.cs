@@ -20,6 +20,7 @@ namespace bramerto_info
         private void Label5_Click(object sender, EventArgs e)
         {
             this.Close();
+            Application.Exit();
         }
 
         private void Label6_Click(object sender, EventArgs e)

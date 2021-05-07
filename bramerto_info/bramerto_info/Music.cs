@@ -16,17 +16,22 @@ namespace bramerto_info
     public partial class Music : Form
     {
         SoundPlayer simpleSound = new SoundPlayer();
+        SoundPlayer songSound = new SoundPlayer();
+        SoundPlayer song2Sound = new SoundPlayer();
         public Music()
         {
             InitializeComponent();
 
             simpleSound.Stream = Properties.Resources.L;
+            songSound.Stream = Properties.Resources.LL;
+            song2Sound.Stream = Properties.Resources.LLL;
+
         }
 
         private void Label1_Click(object sender, EventArgs e)
         {
-            simpleSound.Stop();
             this.Close();
+            Application.Exit();
         }
 
         private void Label2_Click(object sender, EventArgs e)
@@ -39,6 +44,8 @@ namespace bramerto_info
             this.Hide();
             Form1 form = new Form1();
             simpleSound.Stop();
+            songSound.Stop();
+            song2Sound.Stop();
             form.Show();
         }
 
@@ -52,6 +59,26 @@ namespace bramerto_info
         private void stop_click(object sender, EventArgs e)
         {
             simpleSound.Stop();
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            songSound.Play();
+        }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            songSound.Stop();
+        }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            song2Sound.Play();
+        }
+
+        private void Button5_Click(object sender, EventArgs e)
+        {
+            song2Sound.Stop();
         }
     }
 }

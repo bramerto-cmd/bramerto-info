@@ -88,5 +88,23 @@ namespace bramerto_info.Properties {
                 return ResourceManager.GetStream("L", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream LL {
+            get {
+                return ResourceManager.GetStream("LL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+        /// </summary>
+        public static System.IO.UnmanagedMemoryStream LLL {
+            get {
+                return ResourceManager.GetStream("LLL", resourceCulture);
+            }
+        }
     }
 }
