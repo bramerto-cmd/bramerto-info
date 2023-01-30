@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-// I WANT BADGE
+// I WANT BADGE1
 
 namespace bramerto_info
 {
