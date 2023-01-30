@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace bramerto_info
 {
     public partial class Biography : Form
-    {
+    {//2021...
         public Biography()
         {
             InitializeComponent();
